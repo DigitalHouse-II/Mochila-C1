@@ -4,3 +4,7 @@ El equipo original no podía seguir utilizando BitKeeper. En ese entonces, no ha
 
 
 2. ¿A quién pertenece actualmente Github y por qué?
+Actualmente GitHub es de Microsoft, debido a que fue comprada por ellos el 4 de junio de 2018.
+
+3. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+Si, despues de tener ambos respositorios, el locar y el remoto, los commit y el push se pueden hacer directamente en el VSC llendo a source control.
