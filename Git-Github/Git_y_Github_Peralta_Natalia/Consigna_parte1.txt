@@ -1,0 +1,13 @@
+1. ¿Quién inventó el sistema de control de versión Git y por qué?
+En el libro de Git SCM narran la creacion de este de la siguiente manera: "Como muchas de las grandes cosas en esta vida, Git comenzó con un poco de destrucción creativa y una gran polémica.
+El kernel de Linux es un proyecto de software de código abierto con un alcance bastante amplio. 
+Durante la mayor parte del mantenimiento del kernel de Linux (1991-2002), los cambios en el software se realizaban a través de parches y archivos. En el 2002, el proyecto del kernel de Linux empezó a usar un DVCS propietario llamado BitKeeper.
+En el 2005, la relación entre la comunidad que desarrollaba el kernel de Linux y la compañía que desarrollaba BitKeeper se vino abajo y la herramienta dejó de ser ofrecida de manera gratuita. Esto impulsó a la comunidad de desarrollo de Linux (y en particular a Linus Torvalds, el creador de Linux) 
+a desarrollar su propia herramienta basada en algunas de las lecciones que aprendieron mientras usaban BitKeeper."
+
+2. ¿A quién pertenece actualmente Github y por qué?
+Actualmente Github le pertenece a la empresa Microsoft desde el 2018, y desde entonces existen diversos rumores acerca del porque de su adquisicion, sin embargo uno de los mas recurrentes es que este quiere mantener su relevancia en el desarrollo de todo tipo de plataformas, ademas de poder estar en 
+contacto directo con los desarrolladores para ver sus necesidades y ofrecerles las herramientas que necesiten.
+
+3. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+Para Git existen diversas interfaces graficas que permiten trabajar con el, incluso sin necesidad de usar comandos. Sin embargo Github al ser una pagina web no es manejada con la terminal.
