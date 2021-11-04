@@ -75,3 +75,5 @@ git push origin NOMBRE DEL BRANCH
 
 git pull origin NOMBRE DEL BRANCH
 
+
+git merge 
