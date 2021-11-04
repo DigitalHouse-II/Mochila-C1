@@ -1,0 +1,41 @@
+En terminal:
+- ls / Lista el contenido de una carpeta
+- pwd / Trae la dirección del director de trabajo
+- cd / ingresar a una carpeta
+- touch / crear archivo
+- nano / editor de texto de archivos
+- ls -a / Lista el contenido de una carpeta, incluyendo datos ocultos
+- mkdir / crear carpeta
+- rmdir / remove carpeta
+- rm / remover archivo}
+- rm -r ./ = Eliminar una carpeta que contiene archivos
+- cd .. / salir de una carpeta a la más grande
+- cp / copiar archivos o carpetas 
+- mv / renombrar o mover archivos o directorios
+
+En Git:
+- git init / crea un repositorio local
+- git remote add / conecta con repositorio remoto
+- git add / agregar contenido a la fase de stating
+- git commit -m / crear versión de git en el repositorio remoto
+- git branch / crear rama en un repositio
+- git push origin / agregar contenido a repositorio remoto
+- rm -rf .git / eliminar un repositorio local
+- git clone / clonar un reposotorio remoto en local
+- git status / estado del git
+- git log / enlistar los commit hechos
+- git pull / actualizar contenido de remoto local proveniente del remoto
+- git checkout para desplazarse entre ramas
+
+¿Quién inventó el sistema de control de versión Git y por qué?
+R/: Originalmente, la comunidad de desarrolladores de Linux utilizaba BitKeeper, un sistema de control de versiones distribuido y comercial, aunque gratuito para proyectos de código abierto. Como el propio Linus Torvalds explica, BitKeeper suponí­a un gran paso adelante comparado con otros SCMs como CVS y Subversion y, sin duda, inspiró muchos de los conceptos en los que se basa git (especialmente el ser un sistema distribuido).
+
+Sin embargo, el hecho de ser un software propietario y ciertas desavenencias con su creador, Larry McVoy, llevaron a Linus Torvalds a decantarse por buscar un nuevo sistema de control de versiones. Tras probar muchas de las soluciones existentes y descubrir que ninguna cumplí­a con sus requisitos, Torvalds decidió diseñar e implementar su propio sistema de control de versiones. Tan sólo un dí­a después ya habí­a desarrollado las bases de git para poder auto-gestionar el propio código de git en git y, una semana después, ya tení­a una primera versión. Resulta curioso que en la primera mención pública de git, cuando llevaba un par de dí­as de desarrollo, Torvalds describe git no como un sistema de control de versiones sino simplemente como una herramienta de distribución y archivado de ficheros. El resto, como suele decirse, es historia.
+
+Git fue diseñado por Torvalds con el proyecto de Linux y el workflow  de sus desarrolladores en mente y, obviamente, estos fueron los primeros en adoptarlo como sistema de control de versiones. El modo de funcionamiento distribuido, su eficiencia a la hora de trabajar con múltiples ramas y otras operaciones comunes como diffs (que en git se ejecutan en un suspiro), dan testimonio de cómo git fue diseñado con la intención de gestionar proyectos grandes como el kernel sin problemas.
+
+¿A quién pertenece actualmente Github y por qué?
+R/:El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones de dólares,​​ al inicio el cambio de propietario generó preocupaciones y la salida de algunos proyectos de este repositorio,​ sin embargo no fueron representativos.
+
+¿Hay otra forma que no sea la terminal para trabajar con Github?
+R/:Si, desde la misma interfaz de Github
