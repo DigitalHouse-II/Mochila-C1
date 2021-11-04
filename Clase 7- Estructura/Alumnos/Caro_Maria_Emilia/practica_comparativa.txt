@@ -1,0 +1,3 @@
+El procesador intel i3 3230 es para Marcelo, ya que este contiene 2 nucleos con 4 subprocesos, con una frecuencia de 3,30 GHz,suficiente para correr Office 2019.
+El procesador AMD a8 9600 es para el hermano mayor de Matilda, ya que este contiene 4 nucleos de CPU y una placa gradica integrada de 6 nucleos,una velocidad de 3,1 a 3,4 GHz y puede correr el programa de edicion de video.
+El procesador AMD Ryzen 5 3600 es para Matilda, ya que este contiene 6 nucleos de CPU,12 hilos, una frecuencia base de 3,6 GHz, con un aumento maximo de hasta 4,2 GHz.Lo cual es suficiente para poder correr el juego CyberPunk 2077.
