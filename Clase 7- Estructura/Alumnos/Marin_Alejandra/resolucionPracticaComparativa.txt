@@ -1,0 +1,10 @@
+-El AMD Ryzen 5 3600 es para MATILDA, ya que es el procesador que cumple
+los requisitos mínimos del Cyberpunk 2077. En este caso, es el que ejecutaría
+el juego con el mejor rendimiento de los tres a eligir.
+
+-El AMD A8 9600 es para el hermano mayor, ya que va a ejecutar un programa
+de editor de vídeos. En este caso, este programa no exige tanto como
+Cyberpunk 2077. De los tres, este lo podríamos catalogar como gama media.
+
+-Por lo que, el Intel i3 3230 es para Marcelo, ya que Office 2019 es el 
+software que menos exige en sus requerimientos de procesador. 
