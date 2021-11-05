@@ -1,0 +1,13 @@
+1. ¿Quién inventó el sistema de control de versión Git y por qué?
+Hoy en día, Git es, con diferencia, el sistema de control de versiones moderno más utilizado del mundo. Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005. Un asombroso número de proyectos de software dependen de Git para el control de versiones, incluidos proyectos comerciales y de código abierto. Los desarrolladores que han trabajado con Git cuentan con una buena representación en la base de talentos disponibles para el desarrollo de software, y este sistema funciona a la perfección en una amplia variedad de sistemas operativos e IDE (entornos de desarrollo integrados).
+
+2. ¿A quién pertenece actualmente Github y por qué?
+Pertenece a Microsoft. El 4 de junio de 2018, Microsoft anunció la compra de la compañía por un importe de 7500 millones de dólares. Cerrándose la adquisición el 26 de octubre de 2018.
+
+3. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+Hoy en día existen diversas alternativas a GitHub como lo son:
+GitLab. GitLab ofrece numerosas y útiles características en su DVCS, como, por ejemplo, un proyecto wiki integrado y una página web de proyecto. ...
+SourceForge. ...
+Cloud Source Repositories. ...
+GitKraken. ...
+Apache Allura.
