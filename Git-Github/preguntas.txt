@@ -1,0 +1,10 @@
+1. ¿Quien invento el sistema de control de versiones Git y Por que?
+Git fue creado por Linus Torvalds hace 16 años con el fin de continuar el desarrollo de Linux kernel. 
+El equipo original no podía seguir utilizando BitKeeper. En ese entonces, no había otro gestor de control de terminal (Source Control Management)que pudiera cumplir con las especificaciones para un sistema distribuido.
+
+
+2. ¿A quién pertenece actualmente Github y por qué?
+Actualmente GitHub es de Microsoft, debido a que fue comprada por ellos el 4 de junio de 2018.
+
+3. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+Si, despues de tener ambos respositorios, el locar y el remoto, los commit y el push se pueden hacer directamente en el VSC llendo a source control.
