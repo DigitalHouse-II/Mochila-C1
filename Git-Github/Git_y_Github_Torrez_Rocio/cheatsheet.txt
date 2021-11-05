@@ -1,0 +1,78 @@
+Recordatorio de comandos importantes
+
+git init  (Crea el repositorio)
+
+git config user.name "Rosesnk"     (Sirve para introducir nombre de usuario de Github)
+git config user.name     (Sirve para ver el nombre de usuario configurado)
+
+git config user.email "rochio47@hotmail.com"  (Sirve para introducir el mail de Github)
+git config user.email            (Sirve para ver el email configurado)
+
+git config --global user.name "Rosesnk"
+git config --global user.email "rochio47@hotmail.com"   
+(Estos comandos se adicionan abajo de la linea correspondiente para no loguearse nuevamente) 
+
+
+git add  Guiagit.txt  (Agrega archivo al repositorio)
+git add .   (Agrega todos los archivos de la carpeta al repositorio)
+git status      ( Da el estado de los archivos respecto del repositorio, es el seguimiento)
+Comentario: Si ya hice "git add" pero modifique los archivos despues, en "git status" va a aparecer en rojo el archivo modificado. Debo darle seguimiento nuevamente haciendo "git add archivo" 
+
+
+git commit -m "Primer commit del proyecto"  (Punto de revision guardado)
+git log    (proporciona un historial de los cambios guardados)
+
+
+git rm --cached (Remueve los archivos en seguimiento los adds)
+
+
+UNA VEZ HECHO EL REPOSITORIO EN GIT HUB, GUARDAR EL LINK
+conectar a Git HUB
+
+
+git remote add origin LINK DEL REPOSITORIO
+
+git remote -v    (te muestra el link con el que esta conectandose)
+
+git push origin master (Sube los archivos al repositorio)
+
+
+
+git clone LINK DEL REPOSITORIO  (Para descargar por primera vez un repositorio)
+git remote -v 
+
+git pull origin master (Nos muestra que archivos descargo y actualizo)
+
+
+
+
+
+CAMBIOS DE RAMAS
+
+(main)
+git branch Torrez_Rocio   (crea la rama Torrez_Rocio)
+
+git checkout Torrez_Rocio  (cambia a la rama Torrez_Rocio)
+
+EN GENERAL, GIT VA A PERMITIR CAMBIOS DE RAMA SI NO HAY CAMBIOS, ENTONCES SI HAY ERROR, SE DEBE eliminar cambios o confirmar commiteando
+
+Mas comandos de RAMAS
+
+git branch (Enumera todas las ramas)
+
+git branch Branch   (Crea una nueva rama llamada Branch)
+
+git branch -d Branch  (Elimina la rama llamada Branch)
+
+COMO GIT EVITA QUE ELIMINEMOS RAMAS NO FUSIONADAS...
+
+git branch -D Branch (Fuerza la eliminacion de la rama llamada Branch)
+
+
+PARA GUARDAR Y SUBIR EN RAMAS
+
+git push origin NOMBRE DEL BRANCH
+
+git pull origin NOMBRE DEL BRANCH
+
+
