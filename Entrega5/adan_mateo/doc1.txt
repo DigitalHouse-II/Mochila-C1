@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Eliminamos el contenido al archivo doc1.txt
+Modificando el archivo doc1.txt, bla bla bla....
+=======
+Este es un archivo plano
+>>>>>>> c45aa32ef8257376bcbda9189dc78ce466322228

@@ -1,0 +1,1 @@
+Le agregamos contenido al archivo doc2.txt
