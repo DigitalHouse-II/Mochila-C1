@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 dejo el link a mi repositorio
+=======
+dejo el link a mi repositorio
+>>>>>>> 4366b5a424b40b551049763fbfb00fd3530b7fc7
 https://github.com/lizzabueno/introduccion_a_la_informatica
