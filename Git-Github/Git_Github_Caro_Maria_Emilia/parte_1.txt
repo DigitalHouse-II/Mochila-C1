@@ -1,0 +1,16 @@
+a) ¿Quién inventó el sistema de control de version Git y por qué?
+
+Originalmente, la comunidad de desarrolladores de Linux utilizaba BitKeeper, un sistema de control de versiones distribuido y comercial, aunque gratuito para proyectos de código abierto. Como el propio Linus Torvalds explica, BitKeeper suponí­a un gran paso adelante comparado con otros SCMs como CVS y Subversion y, sin duda, inspiró muchos de los conceptos en los que se basa git (especialmente el ser un sistema distribuido).
+
+Sin embargo, el hecho de ser un software propietario y ciertas desavenencias con su creador, Larry McVoy, llevaron a Linus Torvalds a decantarse por buscar un nuevo sistema de control de versiones. Tras probar muchas de las soluciones existentes y descubrir que ninguna cumplí­a con sus requisitos, Torvalds decidió diseñar e implementar su propio sistema de control de versiones. Tan sólo un dí­a después ya habí­a desarrollado las bases de git para poder auto-gestionar el propio código de git en git y, una semana después, ya tení­a una primera versión. 
+
+b) ¿A quién pertenece actualmente Github y por? 
+
+El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones de dólares
+
+La compra de GitHub es un paso más en la inclinación de Microsoft para enfocarse todo lo posible al desarrollo, haciendo una vez más hincapié en que el núcleo de la empresa lo forman los desarrolladores y nada más.
+
+c) ¿Hay otra forma que no sea la terminal para trabajar con GitHub?
+ 
+A parte de trabajar Github desde la terminal, se puede trabajar desde un IDE (entorno de desarrollo integrado) como lo es Visual Studio Code.
+
