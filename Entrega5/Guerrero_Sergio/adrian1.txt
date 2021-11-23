@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+Cambio 1
+
+Probando rama2 !! 
+=======
+Cambio 1. En branch1
+>>>>>>> 9b9704c88cfc31c66c5a2b35f76f7f3a7b3249f9
