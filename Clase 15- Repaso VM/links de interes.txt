@@ -1,0 +1,7 @@
+https://docs.microsoft.com/en-us/windows/wsl/install
+https://www.it-swarm-es.com/es/linux/hay-un-escenario-donde-se-necesita-rm-rf-no-preserve-root/958901038/
+https://www.europeanvalley.es/noticias/que-es-un-compilador-en-programacion/
+https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/compilador-e-interprete/
+https://culturacion.com/como-hacer-ping-a-una-direccion-ip-o-pagina-web/
+https://computernewage.com/2015/06/14/el-arbol-de-directorios-de-linux-al-detalle-que-contiene-cada-carpeta/
+https://sites.google.com/site/mrtripus/home/procesos-en-linux
