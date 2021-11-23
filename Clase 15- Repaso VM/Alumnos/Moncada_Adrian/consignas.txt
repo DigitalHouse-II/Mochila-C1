@@ -1,0 +1,19 @@
+- ¿Por que un lenguaje de programación sólo puede utilizarse en algunos sistemas
+operativos y en otros no?
+
+- Casi todos los lenuajes de programación son de código abierto y funcionan en
+casi todos los sistemas operativos. Las excepciones serian los enguajes propietarios
+desarrollados por Microsoft y Apple. El lenguaje C es el más cercano a un lenguaje de programacion
+universal.
+
+- ¿Qué tipo de máquina virtual es virtualBox?
+
+- VirtualBox es una máquina virtual de sistema, ya que permite a la máquina física subaycente
+multiplicarse entre varias máquinas virtuales, cada una ejecutando su propio sistema operativo.
+A la capa de software que permite la virtualización se le llama hypervisor.
+
+- Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás?¿Por qué?
+
+- No, no afeca a las demás. Ya que las máquinas virtuales son entornos aislados del sistema
+operativo físico, por lo que puede ejecutar cosas potencialmente peigrosas, como malware
+sin temor a comprometer su sistema operativo principal o padre
