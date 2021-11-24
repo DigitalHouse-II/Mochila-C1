@@ -1,0 +1,22 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+contesten en conjunto:
+Existe código de bajo nivel y alto nivel. El de bajo nivel hay que compilarlo para un sistema operativo específico; ya que, puede depender de bibliotecas específicas de sistema operativo. Por otro lado, los lenguajes de alto nivel generalmente tienen una capa en su
+compilador o intérprete que permiten la compatibilidad entre sistemas operativos. Un ejemplo es JavaScript con node (motor que toma javascript y permite que haya compatibilidad entre los diferentes sistemas).
+
+
+
+
+Para que la máquina intérprete distintos lenguajes, las instrucciones tienen que pasar del código que escribimos a un código que la máquina entienda, esa traducción se llama compilación. La compilación toma todo el código fuente y lo transforma en el programa ejecutable escrito en código máquina.
+El resultado de la compilación, o sea el ejecutable, debería poder ejecutarse correctamente siempre y cuando la máquina donde se compile sea similar donde se ejecute y esto quiere decir tener una arquitectura de CPU similar y también un sistema operativo similar.
+Hay otras dos formas para que los programa sean entendidos y ejecutados por una máquina, independientemente de la arquitectura. A una se la conoce como máquinas virtuales y a la otra como intérpretes.
+
+
+
+
+
+¿Qué tipo de máquina virtual es virtualBox?. 
+R/ Es una aplicación que sirve para hacer máquinas virtuales con instalaciones de sistemas operativos que va a permitir instalar otros sistemas operativos o el mismo que ya tienes dentro de tu ordenador
+
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+R/ Las máquinas virtuales de procesos se ejecutan en un mismo servidor para ejecutar varias instancias de la misma aplicación de forma separada. De ese modo, si una de ellas falla, no afectará al funcionamiento del resto.
