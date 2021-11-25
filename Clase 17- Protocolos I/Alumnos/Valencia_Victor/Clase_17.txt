@@ -1,0 +1,3 @@
+ MI Ip Privada es clase C ya que empieza con el 192.168
+Direccion Mac
+EC-5C-68-66-D4-A3 CHONGQING FUGUI ELECTRONICS CO.,LTD.
