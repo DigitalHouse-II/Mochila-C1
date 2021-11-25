@@ -1,0 +1,16 @@
+Actividad clase 17
+
+Link del padlet: https://padlet.com/PedagogiaDH/lojarm6or6to15ke
+
+Vínculo: dirección IPv6 local. . . : fe80::c09e:88fd:27c9:f56e%5
+Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.122
+Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+Descripción . . . . . . . . . . . . . . . : Qualcomm QCA9377 802.11ac Wireless Adapter
+Dirección física. . . . . . . . . . . . . : D8-12-65-66-19-3B
+
+¿ La IP pública y privada de qué clase son ?
+Las dos IP son de clase C. 
+
+¿ Qué información puedo obtener de la dirección MAC? , vamos a acceder a
+https://macvendors.com/ y verificar que marca de placa de red tenemos.
+CHONGQING FUGUI ELECTRONICS CO.,LTD.
