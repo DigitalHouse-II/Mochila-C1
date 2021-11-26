@@ -1,0 +1,16 @@
+
+● Dirección IP Pública
+
+Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.15
+
+
+● Dirección IP Privada y su Máscara de subred
+
+Vínculo: dirección IPv6 local. . . : fe80::d0ec:7808:872e:7c5f%12
+
+Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+
+
+● Dirección MAC
+
+Dirección física. . . . . . . . . . . . . : CC-3D-82-6F-38-08
