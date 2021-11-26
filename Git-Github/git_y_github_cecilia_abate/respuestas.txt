@@ -1,0 +1,6 @@
+1¿Quien inveńtó el sistema de control de versión Git y por qué?
+Git es un software libre creado por Linus Torvalds con el proposito de registrar cambios en los archivos de una comnputadora incuyendo el trabao coordinado entre varias personas
+2¿A quien pertenece GitHub y porqué? Microsoft es propietario de GitHub ya que es una plataforma qur funciona de forma compatible.
+3¿Hay otra forma que no sea la terminal para trabajar con GitHub?
+Si la hay, desde la opciones que ofrece la web de GitHub, por ejemplo, cargando un archivo de forma directa en la página. 
+
