@@ -1,0 +1,9 @@
+ 
+Su IPv4 público es:
+181.26.42.301
+
+IP privada:
+Dirección IPv4. . . . . . . . . . . . . . : 192.168.57.1
+Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+Vínculo: dirección IPv6 local. . . : fe80::da2:78f1:eee6:9986%9
+

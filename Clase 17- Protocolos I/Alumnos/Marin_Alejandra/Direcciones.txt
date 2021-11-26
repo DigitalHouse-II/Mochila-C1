@@ -1,0 +1,5 @@
+Dirección IP Pública: 191.95.153.236 [Clase B]
+Dirección IP Privada -> Dirección IPv4: 192.168.1.64 [Clase C]
+Máscara de subred: 255.255.255.0
+Dirección MAC: F8-A2-D6-8F-CC-59
+		Vendor: Liteon Technology Corporation
