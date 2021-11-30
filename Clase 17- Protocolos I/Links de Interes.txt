@@ -1,0 +1,11 @@
+https://www.paessler.com/es/it-explained/ip-address#:~:text=Las%20redes%20de%20clase%20E,.0.0%20a%20255.255.255.255.
+https://www.xataka.com/basics/que-direccion-ip-que-se-diferencia-direccion-mac#:~:text=Por%20%C3%BAltimo%2C%20debes%20saber%20que,las%20miles%20de%20combinaciones%20posibles.
+https://www.xataka.com/basics/que-es-la-direccion-mac-de-tu-ordenador-del-movil-o-de-cualquier-dispositivo
+https://www.xataka.com/tag/ip
+https://www.xataka.com/basics/direcciones-ip-dinamicas-fijas-que-que-ventajas-tiene-cada
+https://www.xataka.com/basics/http-3-que-donde-viene-que-que-cambia-para-buscar-internet-rapido
+https://www.ionos.es/digitalguide/servidores/know-how/direccion-mac/#:~:text=Dado%20que%20las%20direcciones%20MAC,dependiendo%20del%20est%C3%A1ndar%20de%20comunicaciones.
+https://support.apple.com/es-es/HT211227
+https://www.xataka.com/basics/mascara-subred-que-sirve
+https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks
+https://www.ibm.com/docs/es/aix/7.2?topic=addresses-subnet-masks

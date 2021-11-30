@@ -1,0 +1,20 @@
+¿Quién inventó el sistema de control de versión Git y por qué?
+Creado por linus Torvalds con el fin de ser usado en el desarrollo del kernel de linux
+
+¿A quién pertenece actualmente Github y por qué?
+Github le pertenece a Microsoft
+
+¿Hay otra forma que no sea la terminal para trabajar con Github?
+En la plataforma de github se puede trabajar
+
+  git init: crea un repositorio local
+  git remote add: conecta con repositorio remoto
+  git add: agregar contenido a la fase de stating
+  git commit -m "":  crear versión de git en el repositorio remoto
+  git branch: crear rama en un repositio
+  git push origin: agregar contenido a repositorio remoto
+  git clone: clonar un reposotorio remoto en local
+  git status: estado del git
+  git log: enlistar los commit hechos
+  git pull: actualizar contenido de remoto local proveniente del remoto
+  git checkout: para desplazarse entre ramas
