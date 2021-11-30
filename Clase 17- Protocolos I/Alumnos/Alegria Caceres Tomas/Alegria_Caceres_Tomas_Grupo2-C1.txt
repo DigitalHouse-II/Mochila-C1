@@ -1,0 +1,9 @@
+https://padlet.com/PedagogiaDH/9ykmct3tki8dyx3q
+
+IP Publica: 200.127.247.69
+
+
+IPv6 Privada: fe80::39fd:9831:2b2c:de3a%19
+IPv4 Address: 192.168.0.14
+Subnet Mask: 255.255.255.0
+
