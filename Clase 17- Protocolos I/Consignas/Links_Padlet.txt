@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Grupo 1:https://padlet.com/PedagogiaDH/q6ucv6v6zsgvgq7a
 Grupo 2:https://padlet.com/PedagogiaDH/9ykmct3tki8dyx3q
 Grupo 3:https://padlet.com/PedagogiaDH/jxh4o0geifmsqjw7
@@ -10,4 +11,12 @@ Grupo 9:https://padlet.com/PedagogiaDH/lt3xf7ew1976i74s
 Grupo 10:
 Grupo 11:
 Grupo 12:
+=======
+
+IP PUBLICA: 186.170.119.32
+IP PRIVADA: 192.168.1.3
+MASCARA DE RED: 255.255.255.0
+MAC ADDRESS 28:d2:44:45:68:f6
+
+>>>>>>> 41b31563595816ce3e727228f1537c7121d3ea22
 
