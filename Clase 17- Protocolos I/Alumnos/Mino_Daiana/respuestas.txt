@@ -1,0 +1,16 @@
+1. La IP pública y privada de qué clase son ?
+
+Respuesta:
+Pública:
+Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+Es clase C.
+Privada:
+Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.17
+Es clase C.
+
+2. Qué información puedo obtener de la dirección MAC? , vamos a acceder a 
+https://macvendors.com/ y verificar que marca de placa de red tenemos.
+
+Respuesta: 
+Puedo identificar al fabricante y la información del modelo concreto.
+La marca de placa de red que tengo es: ASUSTek COMPUTER INC.

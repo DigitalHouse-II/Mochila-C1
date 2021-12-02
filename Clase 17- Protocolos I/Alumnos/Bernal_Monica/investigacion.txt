@@ -1,0 +1,26 @@
+ Link-local IPv6 Address . . . . . : fe80::7dfd:17a2:3506:722%9
+ IPv4 Address. . . . . . . . . . . : 192.168.56.1
+Subnet Mask . . . . . . . . . . . : 255.255.255.0
+
+
+para la direccion mac
+Pulslas teclas Windows + R para abrir Ejecutar.
+
+Escribe cmd y presiona Enter para ir al Símbolo de sistema.
+Escribe ipconfig /all.
+
+En la entrada Dirección física te dirá la dirección MAC de tu ordenador.
+
+o desde la terminal de windows
+
+Connection Name Network Adapter Physical Address    Transport Name
+=============== =============== =================== ==========================================================
+Ethernet 2      TAP-NordVPN Win 00-FF-B5-F0-C3-F9   Media disconnected
+Wi-Fi           Intel(R) Wi-Fi  34-7D-F6-5B-23-63   \Device\Tcpip_{921DD8B1-B1B6-44BC-8BAC-FC222E030D5F}
+VirtualBox Host VirtualBox Host 0A-00-27-00-00-09   \Device\Tcpip_{889B9CE7-E9DC-41CD-9D9C-B69D5E5DAC26}
+PS C:\Users\mok27\Desktop>
+
+o desde la propia configuracion del computador
+
+ desde network
+34-7D-F6-5B-23-63
