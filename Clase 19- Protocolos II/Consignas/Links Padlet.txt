@@ -1,4 +1,8 @@
+
+
 Ingresar al siguiente padlet y completar en base a que puertos son correspondientes con que protocolos.
+En esta ocasión deberemos tomar lo que hicimos en la clase 17, y agregar al menos 10 mas. Opcionalmente podremos tomar los protocolos que trabajan en el moddelo TCP/IP 
+y decir en que capa podría funcionar..
 
 Grupo 1:https://padlet.com/PedagogiaDH/u16j6myqb9aq41a7
 Grupo 2:https://padlet.com/PedagogiaDH/l0ig1uxn47odqlft
