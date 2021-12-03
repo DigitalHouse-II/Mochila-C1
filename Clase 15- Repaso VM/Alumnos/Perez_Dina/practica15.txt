@@ -1,0 +1,14 @@
+1. ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?.
+Un problema de compatibilidad (incompatibilidad) surge a partir de la falta o mala interpretación de un programa por un 
+algoritmo, esto conlleva a una mala ejecución de dicho programa o a la imposibilidad de ser ejecutado
+
+
+2. ¿Qué tipo de máquina virtual es virtualBox?
+
+Virtual box es una maquina virtual de sistema, es decir, emula a una computadora completa.
+
+3. Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿por qué?
+
+Si una maquina virtual se rompe no afecta a las demás ni al anfitrión ya que están aisladas.
