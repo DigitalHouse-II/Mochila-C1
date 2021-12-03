@@ -1,0 +1,11 @@
+Quien invento el sistema de control de version Git y por que?
+
+Linus Torvald, para llevar control de los archivos del kernel de linux
+
+A quien pertenece Github y por que?
+
+Microsoft realizo la adquisicion de Github con la finalidad de expandir su monopolio de software
+
+Hay otra forma de trabajar con github que no sea la terminal?
+
+A traves del cliente web.
