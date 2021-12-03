@@ -1,5 +1,0 @@
-a) El sistema de Git fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux. Su creador comenzo el proyecto
-	con la idea de crear un sistema de control de versiones mejor a lo que habia en el momento disponible en el mercado.
-b) Actualmente GitHub pertenece a la empresa de Microsoft, para meterse en la competencia del mercado. Actualmente Google esta persiguiendo GitLab para
-	tratar de ponerse al frente en la carrera.
-c)Si, tambien podemos usar Git GUI, que funciona igual que la terminal solo que con una interfaz grafica.

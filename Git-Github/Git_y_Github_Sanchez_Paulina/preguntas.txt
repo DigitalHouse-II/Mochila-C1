@@ -1,8 +1,0 @@
-¿Quién inventó el sistema de control de versión Git y por qué?
-Lo inventó Linus Torvalds, pues en Linux solían usar un software de control de versiones llamado BitKeeper, sin embargo decidió diseñar su propio software de control de versiones. Llamado git.
-
-¿A quién pertenece actualmente Github y por qué?
-El mantenimiento del software Git está actualmente (2009) supervisado por Junio Hamano, quien recibe contribuciones al código de alrededor de 280 programadores. En cuanto a derechos de autor Git es un software libre distribuible bajo los términos de la versión 2 de la Licencia Pública General de GNU.
-
-¿Hay otra forma que no sea la terminal para trabajar con Github?
-Sí, directamente desde github se cuenta con una interfaz que permite crear ramas y realizar commits sin tocar la linea de código.
