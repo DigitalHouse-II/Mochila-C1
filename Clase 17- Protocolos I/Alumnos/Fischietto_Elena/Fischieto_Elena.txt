@@ -1,0 +1,9 @@
+   Dirección física. . . . . . . . . . . . . : 2C-D0-5A-4A-00-76
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.6(Preferido)
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+
+
+¿ La IP pública y privada de qué clase son ?
+Clase C
+
+¿ Qué información puedo obtener de la dirección MAC? La marca de la la placa de red
