@@ -1,0 +1,57 @@
+Speedtest sin VPN
+
+ping 2ms
+descarga Mbps 232.90
+carga Mbps 303.24
+
+
+Geolocalizacion sin VPN
+
+País	Argentina
+Ciudad	Lanus
+Latitud	-34.719799041748
+Longitud	-58.4089012146
+ISP	Telefonica de Argentina
+
+
+Video WAT ENN WONDERSHONE: Se puede ver
+
+--------------------------------------------------------------------
+
+Speedtest con VPN 
+En chicago,  IL
+IP 77.111.246.47
+
+ping 188ms
+descarga Mbps 250.56
+carga Mbps 7.58
+
+
+
+País	United States
+Ciudad	
+Latitud	37.750999450684
+Longitud	-97.821998596191
+ISP	Opera Mini Proxy
+
+
+Video WAT ENN WONDERSHONE: Se puede ver
+
+
+--------------------------------------------------------------------
+
+Speedtest con TORR 
+
+ping 700
+descarga Mbps 7.04 
+carga Mbps  7.31
+Zipnet/Accra  IP 185.100.86.74
+
+País 	Seychelles
+Ciudad 	
+Latitud 	-4.583300113678
+Longitud 	55.666698455811
+ISP 	Flokinet Ltd
+
+
+Video WAT ENN WONDERSHONE: No se puede activar
