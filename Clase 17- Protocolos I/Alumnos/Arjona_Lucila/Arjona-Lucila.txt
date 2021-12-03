@@ -1,0 +1,6 @@
+Las redes de clase C usan una máscara de subred predeterminada de 255.255.255.0 y tienen 192-223 como su primer octeto. La dirección 192.168.123.132 es una dirección de clase C
+ip pública ……………………………….181.29.68.203(Clase A)
+Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1(clase C)
+Máscara de subred . . . . . . . . . . . . : 255.255.255.0 (clase C)
+Adaptador de LAN inalámbrica Wi-Fi 3:
+Dirección física. . . . . . . . . . . . . : 1C-A0-D3-67-BD-FB
